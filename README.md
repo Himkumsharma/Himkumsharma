@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Himanshu Kumar  
 
-<!--
-**Himkumsharma/Himkumsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in **Software Development, Competitive Programming, and Open Source Contributions**  
+🌱 I’m currently learning **Advanced Data Structures & Algorithms and Web Technologies**   
+📚 Pursuing **B.Tech in Electronics & Communication Engineering (6th Semester)**  
 
-Here are some ideas to get you started:
+🚀 **Projects:**  
+- **Exam Seat Arrangement System**  
+- **Attendance Recognition System (Web-Based, Local Storage)**  
+- **Cab Driver Finder (Based on Minimum Cost & Distance)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me:**  
+- 💌 Email: himkumsharma@gmail.com  
+- 🕸️ Portfolio:
+- 🔗 LinkedIn: https://www.linkedin.com/in/himkumsharma
+
+⚡ **Fun Fact:** I enjoy reading the **sports section** of *The Times of India* and constantly work on improving my **English skills**!  
+
+Always exploring, learning, and building! Let's connect and collaborate! 🚀🔥  
