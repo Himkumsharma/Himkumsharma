@@ -2,7 +2,7 @@
 
 👀 I’m interested in **Software Development, Competitive Programming, and Open Source Contributions**  
 🌱 I’m currently learning **Advanced Data Structures & Algorithms and Web Technologies**   
-📚 Pursuing **B.Tech in Electronics & Communication Engineering (6th Semester)**  
+📚 Pursuing **B.Tech in Electronics & Communication Engineering (7th Semester)**  
 
 🚀 **Projects:**  
 - **Exam Seat Arrangement System**  
