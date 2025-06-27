@@ -11,7 +11,7 @@
 
 📫 **How to reach me:**  
 - 💌 Email: himkumsharma@gmail.com  
-- 🕸️ Portfolio:
+- 🕸️ Portfolio: https://himkumtech.vercel.app
 - 🔗 LinkedIn: https://www.linkedin.com/in/himkumsharma
 
 ⚡ **Fun Fact:** I enjoy reading the **sports section** of *The Times of India* and constantly work on improving my **English skills**!  
